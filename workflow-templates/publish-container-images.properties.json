@@ -1,7 +1,4 @@
 {
     "name": "publish-container-images",
-    "description": "Publish container images",
-    "filePatterns": [
-        "^Containerfile",
-    ]
+    "description": "Publish container images"
 }
