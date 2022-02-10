@@ -1,4 +1,4 @@
 {
-    "name": "publish-container-images",
+    "name": "publish-container-image",
     "description": "Publish container images"
 }
