@@ -7,4 +7,4 @@ on:
 jobs:
   
   publish-container-images:
-    uses: toolfordev/.github/blob/main/workflow-templates/publish-container-images.yml@main
+    uses: toolfordev/.github/workflow-templates/publish-container-images.yml@main
